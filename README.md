@@ -11,7 +11,7 @@ Ordering, live driver tracking, event-driven routing, and AI-assisted delivery e
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16%20%2B%20PostGIS-4169e1?logo=postgresql&logoColor=white)](https://postgis.net/)
 [![Redis](https://img.shields.io/badge/Redis-Geo-dc382d?logo=redis&logoColor=white)](https://redis.io/)
 [![Kafka](https://img.shields.io/badge/Kafka-3.7-231f20?logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 
 **[Live Demo](https://food-fiesta-0sej.onrender.com/)** · **[API Docs (`/swagger-ui/index.html`)](https://food-fiesta-0sej.onrender.com/swagger-ui/index.html)**
 
